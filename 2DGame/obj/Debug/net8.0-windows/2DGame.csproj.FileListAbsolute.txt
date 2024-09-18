@@ -1,0 +1,17 @@
+E:\Entwicklung\2DGame\2DGame\bin\Debug\net8.0-windows\2DGame.exe
+E:\Entwicklung\2DGame\2DGame\bin\Debug\net8.0-windows\2DGame.deps.json
+E:\Entwicklung\2DGame\2DGame\bin\Debug\net8.0-windows\2DGame.runtimeconfig.json
+E:\Entwicklung\2DGame\2DGame\bin\Debug\net8.0-windows\2DGame.dll
+E:\Entwicklung\2DGame\2DGame\bin\Debug\net8.0-windows\2DGame.pdb
+E:\Entwicklung\2DGame\2DGame\obj\Debug\net8.0-windows\_2DGame.Form1.resources
+E:\Entwicklung\2DGame\2DGame\obj\Debug\net8.0-windows\2DGame.csproj.GenerateResource.cache
+E:\Entwicklung\2DGame\2DGame\obj\Debug\net8.0-windows\2DGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Entwicklung\2DGame\2DGame\obj\Debug\net8.0-windows\2DGame.AssemblyInfoInputs.cache
+E:\Entwicklung\2DGame\2DGame\obj\Debug\net8.0-windows\2DGame.AssemblyInfo.cs
+E:\Entwicklung\2DGame\2DGame\obj\Debug\net8.0-windows\2DGame.csproj.CoreCompileInputs.cache
+E:\Entwicklung\2DGame\2DGame\obj\Debug\net8.0-windows\2DGame.dll
+E:\Entwicklung\2DGame\2DGame\obj\Debug\net8.0-windows\refint\2DGame.dll
+E:\Entwicklung\2DGame\2DGame\obj\Debug\net8.0-windows\2DGame.pdb
+E:\Entwicklung\2DGame\2DGame\obj\Debug\net8.0-windows\2DGame.genruntimeconfig.cache
+E:\Entwicklung\2DGame\2DGame\obj\Debug\net8.0-windows\ref\2DGame.dll
+E:\Entwicklung\2DGame\2DGame\obj\Debug\net8.0-windows\_2DGame.Properties.Resources.resources
